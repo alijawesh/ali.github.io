@@ -8,6 +8,7 @@ body{
 
 
 .header {
+    background-image: url('./Img/Header.jpeg');
     background-size: cover;
     background-position: center;
     height: 800px; /* adjust height as needed */
