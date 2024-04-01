@@ -21,7 +21,7 @@
 title: Welcome to my page
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This page has been developed by ALi Hassan Jawesh (s183033)
+  This page has been developed by Ali Hassan Jawesh (s183033)
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
