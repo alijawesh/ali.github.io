@@ -71,7 +71,7 @@ a {
 }
 
 .dropdown-content a:hover {
-   background-color: rgb(246, 233, 213);
+   background-color: rgb(177, 191, 213);
 }
 
 .header {
@@ -90,7 +90,6 @@ a {
     align-items: center;
     height: 50%;
     margin-top: 8%;
-    background-color: rgb(177, 191, 213);
 }
 
 .header-title {
@@ -120,12 +119,10 @@ a {
     margin-bottom: 150px;
     margin-right: 40px;
     margin-left: 40px;
-    background-color: rgb(177, 191, 213);
 }
 
 .body-content h1,h2,h3{
     text-align: center;
-    background-color: rgb(177, 191, 213);
 }
 
 .conclusion{
@@ -183,13 +180,6 @@ a {
     background-width: 110%;
 }
 
-.youtube{
-    align-content: center;
-    margin-right: 20px;
-    height: 500px;
-    width: 2000px;
-    border-radius: 20px;
-}
 
 .bokeh{
     width: 100%;
@@ -325,11 +315,7 @@ section{
     .image-div {
         margin-left: 0;
     }
-    .youtube {
-        width: 100%;
-        height: auto;
-        margin-right: 0;
-    }
+    
     .plot-for-neighborhood {
         width: 100%;
         height: auto;
