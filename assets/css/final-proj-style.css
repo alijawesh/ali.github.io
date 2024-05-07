@@ -124,6 +124,7 @@ a {
 
 .body-content h1,h2,h3{
     text-align: center;
+    background-color: rgb(177, 191, 213);
 }
 
 .conclusion{
