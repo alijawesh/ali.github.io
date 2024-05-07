@@ -152,6 +152,7 @@ a {
 }
 .big_plots h2{
     text-align: center;
+    background-color: rgb(177, 191, 213);
 }
 
 .introduction_image img {
